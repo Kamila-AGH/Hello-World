@@ -1,7 +1,8 @@
 # Hello-World
 First Repository
 Witam 
-Pierwszy raz korzytsam z github
+
+Drugi raz korzystam z github
 ------------------------
 --------------------------
 Pozdrawiam
